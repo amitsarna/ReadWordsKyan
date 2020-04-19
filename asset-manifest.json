@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ReadWordsKyan/static/css/main.df5add57.chunk.css",
-    "main.js": "/ReadWordsKyan/static/js/main.8fe81659.chunk.js",
-    "main.js.map": "/ReadWordsKyan/static/js/main.8fe81659.chunk.js.map",
+    "main.css": "/ReadWordsKyan/static/css/main.765d147f.chunk.css",
+    "main.js": "/ReadWordsKyan/static/js/main.4fcad842.chunk.js",
+    "main.js.map": "/ReadWordsKyan/static/js/main.4fcad842.chunk.js.map",
     "runtime-main.js": "/ReadWordsKyan/static/js/runtime-main.ea5b41f1.js",
     "runtime-main.js.map": "/ReadWordsKyan/static/js/runtime-main.ea5b41f1.js.map",
     "static/js/2.bc66cd20.chunk.js": "/ReadWordsKyan/static/js/2.bc66cd20.chunk.js",
     "static/js/2.bc66cd20.chunk.js.map": "/ReadWordsKyan/static/js/2.bc66cd20.chunk.js.map",
     "index.html": "/ReadWordsKyan/index.html",
-    "precache-manifest.b5b7099d4031ce4c142edce3d8ab84c7.js": "/ReadWordsKyan/precache-manifest.b5b7099d4031ce4c142edce3d8ab84c7.js",
+    "precache-manifest.07838acc91a55b5d61a4e2c9387283a4.js": "/ReadWordsKyan/precache-manifest.07838acc91a55b5d61a4e2c9387283a4.js",
     "service-worker.js": "/ReadWordsKyan/service-worker.js",
-    "static/css/main.df5add57.chunk.css.map": "/ReadWordsKyan/static/css/main.df5add57.chunk.css.map",
+    "static/css/main.765d147f.chunk.css.map": "/ReadWordsKyan/static/css/main.765d147f.chunk.css.map",
     "static/js/2.bc66cd20.chunk.js.LICENSE.txt": "/ReadWordsKyan/static/js/2.bc66cd20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea5b41f1.js",
     "static/js/2.bc66cd20.chunk.js",
-    "static/css/main.df5add57.chunk.css",
-    "static/js/main.8fe81659.chunk.js"
+    "static/css/main.765d147f.chunk.css",
+    "static/js/main.4fcad842.chunk.js"
   ]
 }

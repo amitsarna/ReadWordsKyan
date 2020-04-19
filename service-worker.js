@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReadWordsKyan/precache-manifest.b5b7099d4031ce4c142edce3d8ab84c7.js"
+  "/ReadWordsKyan/precache-manifest.07838acc91a55b5d61a4e2c9387283a4.js"
 );
 
 self.addEventListener('message', (event) => {
