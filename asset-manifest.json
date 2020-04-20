@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReadWordsKyan/static/css/main.1fd0dc44.chunk.css",
+    "main.css": "/ReadWordsKyan/static/css/main.bffb2367.chunk.css",
     "main.js": "/ReadWordsKyan/static/js/main.4fcad842.chunk.js",
     "main.js.map": "/ReadWordsKyan/static/js/main.4fcad842.chunk.js.map",
     "runtime-main.js": "/ReadWordsKyan/static/js/runtime-main.ea5b41f1.js",
@@ -8,15 +8,15 @@
     "static/js/2.bc66cd20.chunk.js": "/ReadWordsKyan/static/js/2.bc66cd20.chunk.js",
     "static/js/2.bc66cd20.chunk.js.map": "/ReadWordsKyan/static/js/2.bc66cd20.chunk.js.map",
     "index.html": "/ReadWordsKyan/index.html",
-    "precache-manifest.9a9c397409cfd4c36b26839324314955.js": "/ReadWordsKyan/precache-manifest.9a9c397409cfd4c36b26839324314955.js",
+    "precache-manifest.0a08b3f59ba54debd6237279b66436c1.js": "/ReadWordsKyan/precache-manifest.0a08b3f59ba54debd6237279b66436c1.js",
     "service-worker.js": "/ReadWordsKyan/service-worker.js",
-    "static/css/main.1fd0dc44.chunk.css.map": "/ReadWordsKyan/static/css/main.1fd0dc44.chunk.css.map",
+    "static/css/main.bffb2367.chunk.css.map": "/ReadWordsKyan/static/css/main.bffb2367.chunk.css.map",
     "static/js/2.bc66cd20.chunk.js.LICENSE.txt": "/ReadWordsKyan/static/js/2.bc66cd20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea5b41f1.js",
     "static/js/2.bc66cd20.chunk.js",
-    "static/css/main.1fd0dc44.chunk.css",
+    "static/css/main.bffb2367.chunk.css",
     "static/js/main.4fcad842.chunk.js"
   ]
 }

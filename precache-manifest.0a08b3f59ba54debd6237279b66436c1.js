@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b9c1782c5f569f7c6948e3962148e43",
+    "revision": "ac8bb088f3e5fdca536750110a389543",
     "url": "/ReadWordsKyan/index.html"
   },
   {
-    "revision": "0c6b112eb88ca8a6ba30",
-    "url": "/ReadWordsKyan/static/css/main.1fd0dc44.chunk.css"
+    "revision": "fcc12e172eb263a28094",
+    "url": "/ReadWordsKyan/static/css/main.bffb2367.chunk.css"
   },
   {
     "revision": "3efc7ddb39cc7302054b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReadWordsKyan/static/js/2.bc66cd20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c6b112eb88ca8a6ba30",
+    "revision": "fcc12e172eb263a28094",
     "url": "/ReadWordsKyan/static/js/main.4fcad842.chunk.js"
   },
   {
